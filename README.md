@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a student of Systems Analysis and Development, with a technical course in Game Programming. Currently, I am learning about back-end application development with Spring Boot.</p>
+<p align="left">I am a student of Systems Analysis and Development, with a technical course in Game Programming. Currently, I am learning about back-end application development with Spring Boot and Django </p>
 
 ###
 
