@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="c?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
@@ -25,11 +25,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="pyhton logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="pyhton logo"  />
+  <img width="12" />
 </div>
 
 ###
